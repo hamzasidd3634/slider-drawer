@@ -47,6 +47,9 @@ class SlideDrawer extends StatefulWidget {
   /// Default is [Duration(milliseconds: 300)]
   final Duration duration;
 
+
+  final Color? borderColor;
+
   /// Curve to be used for the drawer sliding animation
   final Curve curve;
 
@@ -82,6 +85,7 @@ class SlideDrawer extends StatefulWidget {
     Key? key,
     this.items = const [],
     this.drawer,
+    this.borderColor = Colors.black87,
     this.headDrawer,
     this.contentDrawer,
     required this.child,
@@ -250,12 +254,12 @@ class _SlideDrawerState extends State<SlideDrawer>
                       widget.child
                            : Container(
                           decoration: BoxDecoration(
-                            color: Theme.of(context).primaryColorDark.withOpacity(0.8),
+                            color: widget.borderColor?? Colors.black87,
 
                             borderRadius: BorderRadius.all(Radius.circular(44)),
                             boxShadow: [
                               BoxShadow(
-                                color: Colors.grey.withOpacity(0.8),
+                                color:widget.borderColor?? Colors.black87,
                                 spreadRadius: 15,
                                 blurRadius: 15,
                                 offset: Offset(0, 3), // changes position of shadow

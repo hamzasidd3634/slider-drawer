@@ -1,235 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5e7d2528-66fa-4a6a-8509-a7ff59302d5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../assets/speed/backblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fade.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/app-07ba96.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/app-a32983.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ar/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/favicons/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/fonts/fonts/oc-webfontdef1.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/fonts/fonts/oc-webfontdef1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/fonts/fonts/oc-webfontdef1.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/fonts/fonts/oc-webfontdef1.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/fonts/oc-webfont.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/new-logo-vert-37861c.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/new-logo-vert-fit-f0bf05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/poweredby-865a3b.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/poweredby-fit-4f0259.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_ar_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_da_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_de_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_el_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_en-GB_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_en_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_es-ES_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_es_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_fi_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_fr-CA_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_fr_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_he_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_id_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_it_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_ja_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_ko_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_nb_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_nl_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_pl_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_pt-PT_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_pt_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_ro_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_sv_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_th_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_tr_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_zh-CN_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/fb_zh-TW_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_ar_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_da_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_de_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_el_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_en-GB_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_en_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_es-ES_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_es_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_fi_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_fr-CA_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_fr_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_he_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_id_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_it_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_ja_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_ko_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_nb_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_nl_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_pl_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_pt-PT_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_pt_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_ro_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_sv_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_th_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_tr_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_zh-CN_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/assets/share/tw_zh-TW_____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/css/guage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/css/img/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/css/speedometer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/da/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/da/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/de/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/de/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/el/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/el/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/en/gb/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/en/gb/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/es/es/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/es/es/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/es/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/es/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/fi/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/fi/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/fr/ca/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/fr/ca/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/fr/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/fr/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/he/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/he/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/id/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/id/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/it/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/it/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ja/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ja/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/js/speedometer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ko/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ko/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/nb/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/nb/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/nl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/nl/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/pl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/pl/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/pt/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/pt/pt/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/pt/pt/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/pt/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ro/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/ro/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/sv/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/sv/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/th/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/th/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/tr/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/tr/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/zh/cn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/zh/cn/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/zh/tw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/fast.com/zh/tw/share/____share_shot___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/hts-cache/new.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/hts-cache/new.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/hts-cache/new.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/hts-cache/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/hts-cache/winprofile.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/hts-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/backblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/connect.facebook.net/en_US/sdk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/cookies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/fade.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/hts-cache/new.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/hts-cache/new.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/hts-cache/new.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/hts-cache/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/hts-cache/winprofile.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/hts-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/css/appcb61.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/airtel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/amazon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/broadband.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/bsnl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/cloudflare-warp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/datacamp-limited.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/digital-ocean.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/gthost.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/hostroyale-technologies-pvt-ltd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/jio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/linode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/m247-ltd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/mobile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/online-stock-trading-company.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/ovh-hosting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/railwire-station-wifi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/vodafone-idea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/global_isp_rank/in/vodafone-india.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/host_server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/fp_sharing_imgcb61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/linkage/es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/linkage/in.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/linkage/ph3860.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/linkage/pl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/linkage/ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/linkage/uk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/images/linkage/us.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/js/appcb61.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/js/rankingcb61.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/speedtest.net.in/your_ip_address.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/css/fireprobe80cd.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.calls.s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.calls.s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.calls.s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.calls.s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.calls.s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.games.s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.games.s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.games.s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.games.s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.games.s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.hq.s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.hq.s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.hq.s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.hq.s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.hq.s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.lq.s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.lq.s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.lq.s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.lq.s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.stream.lq.s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.web.s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.web.s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.web.s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.web.s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/images/result.icon.web.s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/js/external80cd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/js/fireprobe.graphics80cd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.fireprobe.net/resources/default/js/fireprobe80cd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets/speednew/www.google.com/recaptcha/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/generated/assets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/generated/assets.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/ui/screens/speedTest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/screens/speedTest.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/slide_drawer-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/slide_drawer-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1x7y7RpLpuo1IFH8f0LnJum2cEw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -275,5 +60,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
