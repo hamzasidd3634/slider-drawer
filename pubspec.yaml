@@ -1,0 +1,19 @@
+name: slide_drawer
+description: An easy way to use drawer in Flutter with cool sliding animation. 
+version: 1.0.3
+author: Salman
+homepage: https://github.com/salkuadrat/slide_drawer
+repository: https://github.com/salkuadrat/slide_drawer
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  curved_animation_controller: ^1.1.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
